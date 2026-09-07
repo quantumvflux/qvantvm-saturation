@@ -1,0 +1,9 @@
+CompileFlags:
+  Add:
+    - "--target=x86_64-pc-windows-msvc"
+    - "-std=c++17"
+    - "-Ic:/JUCE/modules"
+    - "-ID:/dev/nekogain/nekogain/JuceLibraryCode"
+    - "-ID:/dev/nekogain/nekogain/Source"
+  Remove:
+    - "-m*"

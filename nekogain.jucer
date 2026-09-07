@@ -44,8 +44,8 @@
   <EXPORTFORMATS>
     <VS2022 targetFolder="Builds/VisualStudio2022">
       <CONFIGURATIONS>
-        <CONFIGURATION isDebug="1" name="Debug" targetName="nekogain"/>
-        <CONFIGURATION isDebug="0" name="Release" targetName="nekogain"/>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="qvantvm saturation"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="qvantvm saturation"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
         <MODULEPATH id="juce_audio_basics" path="C:/JUCE/modules"/>
